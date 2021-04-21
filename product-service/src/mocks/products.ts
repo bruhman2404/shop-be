@@ -1,0 +1,42 @@
+export default [
+    {
+        count: 4,
+        description: "Kuriyama Mirai figure",
+        id: 1,
+        price: 2.4,
+        title: "Kuriyama Mirai figure",
+        url: 'https://pbs.twimg.com/media/CAdW0BMUsAATq6P.jpg',
+    },
+    {
+        count: 4,
+        description: "Itachi Uchiha figure",
+        id: 2,
+        price: 2.4,
+        title: "Itachi Uchiha figure",
+        url: 'https://cdn.shopify.com/s/files/1/0016/0982/6416/products/product-image-982282542_800x.jpg?v=1571712181',
+    },
+    {
+        count: 4,
+        description: "Yui Hirasawa figure",
+        id: 3,
+        price: 2.4,
+        title: "Yui Hirasawa figure",
+        url: 'https://images-na.ssl-images-amazon.com/images/I/516b8lO%2Bl2L._AC_SX425_.jpg',
+    },
+    {
+        count: 4,
+        description: "Miyazono Kaori figure",
+        id: 4,
+        price: 2.4,
+        title: "Miyazono Kaori figure",
+        url: 'https://img.joomcdn.net/a3daf6660c09740b20cf76399b1a4ad5b86bf9b0_original.jpeg',
+    },
+    {
+        count: 4,
+        description: "Tanjiro Kamado figure",
+        id: 5,
+        price: 2.4,
+        title: "Tanjiro Kamado figure",
+        url: 'https://www.lunartoystore.com/media/catalog/product/cache/647a08bbdfbc103d8f5ac6fb916961ec/d/e/demon_slayer-kimetsu_no_yaiba_tanjiro_kamado-deluxe_4_.jpg',
+    },
+];
